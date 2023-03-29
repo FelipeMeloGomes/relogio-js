@@ -1,4 +1,8 @@
 /* Layout */
+body {
+  background-color: white;
+}
+
 .main {
   display: flex;
   padding: 2em;
@@ -15,39 +19,39 @@
 /* Clock styles */
 .circle {
   fill: none;
-  stroke: #000;
+  stroke: blue;
   stroke-width: 9;
   stroke-miterlimit: 10;
 }
 
 .mid-circle {
-  fill: #000;
+  fill: blue;
 }
 
 .hour-marks {
   fill: none;
-  stroke: #000;
+  stroke: blue;
   stroke-width: 9;
   stroke-miterlimit: 10;
 }
 
 .hour-arm {
   fill: none;
-  stroke: #000;
+  stroke: blue;
   stroke-width: 17;
   stroke-miterlimit: 10;
 }
 
 .minute-arm {
   fill: none;
-  stroke: #000;
+  stroke: blue;
   stroke-width: 11;
   stroke-miterlimit: 10;
 }
 
 .second-arm {
   fill: none;
-  stroke: #000;
+  stroke: blue;
   stroke-width: 4;
   stroke-miterlimit: 10;
 }
