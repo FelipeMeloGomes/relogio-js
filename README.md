@@ -10,7 +10,7 @@ Um Relógio analógico. <br/>
 <br>
 
 <p align="center">
-  <img src="https://github.com/FelipeMelogomes/Fmburger/blob/main/preview.png" width="100%">
+  <img src="https://github.com/FelipeMelogomes/relogio-js/blob/main/preview.PNG" width="100%">
 </p>
 
 
